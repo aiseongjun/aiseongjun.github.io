@@ -1,7 +1,5 @@
-# A student at KHU
+## Education
 
-### Education
+## Work Experience
 
-### Work Experience
-
-### Projects
+## Projects
